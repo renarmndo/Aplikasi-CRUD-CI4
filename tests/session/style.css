@@ -1,0 +1,9 @@
+footer {
+  width: 400px;
+  background-color: grey;
+  align-items: center;
+}
+.text-muted {
+  align-items: center;
+  text-align: center;
+}
